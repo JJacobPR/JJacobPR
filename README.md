@@ -1,3 +1,5 @@
+![background](/background.png)
+
 # 💫 About Me:
 
 👨🏼‍💻 Working as a full-stack developer since 2023<br>🛜 Currently Working on an event management app and personal website.<br>👨🏼‍🎓 Studying Information Technology at Technical University of Lodz<br>🌍 Having command of the following languages: Polish C2, English C2, German B2
